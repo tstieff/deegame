@@ -1,0 +1,11 @@
+{
+	"name" : "DeeGame",
+	"description" : "A Game made with D",
+	"sourcePaths": [
+		"source"
+	],
+	"dependencies" : {
+		"dgame": ">=0.6.0"
+	},
+	"targetPath": "bin"
+}
